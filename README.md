@@ -11,7 +11,7 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 ### Links
 
 - Solution URL: [Github code repo](https://github.com/lastiwan89/fem-result-summary-new-js)
-- Live Site URL: [Netlify](https://your-live-site-url.com)
+- Live Site URL: [Netlify](https://64cf4ffc2039342dfaa4a5d5--magnificent-custard-82be1f.netlify.app/)
 
 ## My process
 
